@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=2Ii4yl40-xs
 
 Написан на python, база данных sqllite3
 
-В базу пишет данные:
+В базу пишет данные(фото кликабельное):
 <img width="2000" alt="Screenshot 2025-05-06 at 9 55 40 PM" src="https://github.com/user-attachments/assets/cc835333-81ac-4b00-81ee-5a64857d8f54" />
 
 
